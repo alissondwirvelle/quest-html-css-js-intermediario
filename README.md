@@ -4,9 +4,9 @@ Este projeto foi desenvolvido como parte de um desafio intermediário com foco e
 
 ## 💻 O Projeto
 
-![projeto1](https://github.com/user-attachments/assets/66474ac9-b2df-410e-8043-ac21f60aeee1)
-![projeto2](https://github.com/user-attachments/assets/ce11db7a-25bb-46af-9d28-02f2f9929f29)
-![projeto3](https://github.com/user-attachments/assets/b1265c88-85d4-4db2-a602-9669ded24f99)
+![projeto1](https://github.com/user-attachments/assets/34afe390-fcf3-44fb-a554-f40d3fe935ce)
+![projeto2](https://github.com/user-attachments/assets/b85eb88e-71f6-4fb3-8e71-44de8e3ca45c)
+![projeto3](https://github.com/user-attachments/assets/29a73b36-961e-4236-b957-c1bde285e802)
 
 ### 🧾 Validação de Formulário
 
