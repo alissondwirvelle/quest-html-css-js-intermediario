@@ -1,0 +1,38 @@
+@media (max-width:725px) {
+    body {
+        background-image: url(../imagens/bg-repeat.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        min-height: 100vh;
+        max-width: 100vw;
+
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container .conteudo {
+        display: flex;
+        margin-top: 30px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container .formulario {
+        display: flex;
+        max-width: 300px;
+        max-height: 358px;
+    }
+
+    .input {
+        width: 260px;
+    }
+
+    .formulario .botao {
+        width: 260px;
+    }
+}

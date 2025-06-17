@@ -1,0 +1,122 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-image: url(../imagens/bg-repeat.jpg);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    gap: 60px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .conteudo {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    color: #ffffff;
+}
+
+.container .titulo {
+    display: flex;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 11px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    width: 287.25px;
+    height: 45px;
+}
+
+.container .descricao {
+    font-size: 15px;
+    font-weight: 400;
+    display: flex;
+    line-height: 20px;
+}
+
+.container .formulario {
+    background-color: #ffffff;
+    max-width: 340px;
+    max-height: 378px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 20px;
+}
+
+.input {
+    width: 298px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 5px;
+    padding-left: 11px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+input::placeholder {
+    font-size: 15px;
+    font-weight: 700;
+    color: #A8A8A8;
+}
+
+.formulario .mensagem {
+    height: 100px;
+    padding-bottom: 70px;
+
+}
+
+.campo-obrigatorio {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 100%;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.formulario .botao {
+    background-color: #3CCC87;
+    color: #ffffff;
+    max-width: 298px;
+    min-height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-style: none;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.formulario span {
+    font-size: 8px;
+    color: #ffffff;
+}
+
+.campo {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.span-obrigatorio {
+    font-size: 12px;
+    color: red;
+}
+
+.formulario span.erro {
+    color: #F52E2E;
+}
+
+.formulario .input.erro {
+    border: #F52E2E 1.9px solid;
+    margin-bottom: 0;
+}
+
+.formulario .input.ok {
+    border: #00C22B 1.9px solid;
+}
