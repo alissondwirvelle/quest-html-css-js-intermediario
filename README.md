@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte de um desafio intermediário com foco em HTML, CSS e JavaScript. O objetivo é treinar o posicionamento de elementos, responsividade e validação de formulário.
 
-## 💻 Prints do Projeto
+## 💻 O Projeto
 
 ![projeto1](https://github.com/user-attachments/assets/66474ac9-b2df-410e-8043-ac21f60aeee1)
 ![projeto2](https://github.com/user-attachments/assets/ce11db7a-25bb-46af-9d28-02f2f9929f29)
